@@ -32,7 +32,7 @@ jobs:
             --to html \
             --output-dir _site \
             ErsteSchritte.ipynb
-        mv _site/Index.html _site/index.html
+        mv _site/ErsteSchritte.html _site/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
