@@ -1,4 +1,4 @@
-name: create 
+name: Build and deplay Jupyter Notebook
 
 on:
   workflow_dispatch:
